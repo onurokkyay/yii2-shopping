@@ -1,6 +1,6 @@
 <?php
-use backend\modules\shopping\models\shoppingcart;
-use backend\Modules\products\models\Products;
+use onurokkyay\shopping\models\shoppingcart;
+use melih058\products\models\Products;
 use yii\data\ActiveDataProvider;
 use yii\helpers\Html;
 use yii\grid\GridView;
