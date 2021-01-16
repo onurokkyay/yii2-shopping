@@ -1,0 +1,1 @@
+<?php echo "Ürün Ekleme Başarılı" ?>
