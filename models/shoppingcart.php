@@ -3,7 +3,7 @@
 namespace onurokkyay\shopping\models;
 
 use melih058\products\models\Products;
-use onurokkyay\user\models\User;
+use sabsay03\user\models\User;
 use Yii;
 
 /**
