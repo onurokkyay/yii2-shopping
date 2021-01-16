@@ -1,14 +1,14 @@
 <?php
 
-namespace onurokkyay\Shopping\models;
+namespace onurokkyay\shopping\models;
 
-use Melih627\products\models\Products;
+use melih058\products\models\Products;
 use yii\base\Model;
 use yii\data\ActiveDataProvider;
 use onurokkyay\shopping\models\shoppingcart;
 
 /**
- * ShoppingSearch represents the model behind the search form of `backend\Modules\Shopping\models\shoppingcart`.
+ * ShoppingSearch represents the model behind the search form of `onurokkyay\shopping\models\shoppingcart`.
  */
 class ShoppingSearch extends shoppingcart
 {
