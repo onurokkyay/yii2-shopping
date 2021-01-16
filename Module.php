@@ -1,6 +1,6 @@
 <?php
 
-namespace onurokkyay\Shopping;
+namespace onurokkyay\shopping;
 
 /**
  * Shopping module definition class
@@ -10,7 +10,7 @@ class Module extends \yii\base\Module
     /**
      * {@inheritdoc}
      */
-    public $controllerNamespace = 'onurokkyay\Shopping\controllers';
+    public $controllerNamespace = 'onurokkyay\shopping\controllers';
 
     /**
      * {@inheritdoc}
