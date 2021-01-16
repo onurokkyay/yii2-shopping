@@ -4,7 +4,7 @@ namespace onurokkyay\shopping\controllers;
 
 use Yii;
 use onurokkyay\shopping\models\Purchasehistory;
-use onurokkyay\models\PurchasehistorySearch;
+use onurokkyay\shopping\models\PurchasehistorySearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
