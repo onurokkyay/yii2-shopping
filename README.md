@@ -212,7 +212,7 @@ Giriş yaptıktan sonra sepetim ve sipariş geçmişim sekmesi aktif olur.
 
 *Sepetim Sayfası*
 
-http://advanced/backend/web/index.php?r=shopping/shopping/index
+advanced/backend/web/index.php?r=shopping/purchasehistory/index
 
 Sepetteki tüm ürünleri ListView::widget ile gösterir.
 
