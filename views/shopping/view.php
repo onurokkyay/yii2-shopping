@@ -3,7 +3,7 @@
 use yii\helpers\Html;
 use yii\widgets\DetailView;
 use yii\widgets\ListView;
-use backend\Modules\products\models\Products;
+use melih058\products\models\Products;
 
 /* @var $this yii\web\View */
 /* @var $model onurokkyay\shopping\models\shoppingcart */
