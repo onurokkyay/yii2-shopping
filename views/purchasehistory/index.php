@@ -10,7 +10,7 @@ use yii\widgets\ListView;
 
 function search()
 {
-    $query = \backend\Modules\Shopping\models\Purchasehistory::find();
+    $query = \onurokkyay\shopping\models\Purchasehistory::find();
 
     // add conditions that should always apply here
 
