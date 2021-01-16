@@ -8,7 +8,7 @@ use yii\data\ActiveDataProvider;
 use onurokkyay\shopping\models\shoppingcart;
 use melih058\products\models\Products;
 use sabsay03\categories\models\Categories;
-use onurokkyay\user\models\User;
+use sabsay03\user\models\User;
 /**
  * This is the model class for table "purchasehistory".
  *
