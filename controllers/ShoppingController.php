@@ -2,7 +2,7 @@
 
 namespace onurokkyay\shopping\controllers;
 
-use onurokkyay\products\models\ProductsSearch;
+use melih058\products\models\ProductsSearch;
 use Yii;
 use onurokkyay\shopping\models\shoppingcart;
 use onurokkyay\shopping\models\ShoppingSearch;
