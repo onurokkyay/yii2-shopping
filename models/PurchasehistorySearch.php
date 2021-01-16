@@ -7,7 +7,7 @@ use yii\data\ActiveDataProvider;
 use onurokkyay\shopping\models\Purchasehistory;
 
 /**
- * PurchasehistorySearch represents the model behind the search form of `backend\Modules\Shopping\models\Purchasehistory`.
+ * PurchasehistorySearch represents the model behind the search form of `onurokkyay\shopping\models\Purchasehistory`.
  */
 class PurchasehistorySearch extends Purchasehistory
 {
