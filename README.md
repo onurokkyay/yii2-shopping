@@ -205,6 +205,7 @@ Kayıt olma işlemi tamamlandıktan aşağıdaki linkten giriş yapınız.
 http://advanced/backend/web/index.php?r=site%2Flogin
 
 ***İlk kayıt olan kullanıcının user tablosundaki id'si 1 olduğu için 1 sayılır.Yani idsi 1 olan kullanıcı admindir.Sitede sol üstte bulunan admin özelliklerini kullanabilir.Diğer kullanıcılar bu sekmeyi kullanamaz.***
+***Admin kullanıcı adı: admin şifre: 12345678***
 
 # Yii2 Shopping Modülü
 
